@@ -1,0 +1,7 @@
+D:\GitHub\Csharp_Basics\2_Primitives\obj\Debug\2_Primitives.csprojAssemblyReference.cache
+D:\GitHub\Csharp_Basics\2_Primitives\obj\Debug\2_Primitives.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp_Basics\2_Primitives\bin\Debug\2_Primitives.exe.config
+D:\GitHub\Csharp_Basics\2_Primitives\bin\Debug\2_Primitives.exe
+D:\GitHub\Csharp_Basics\2_Primitives\bin\Debug\2_Primitives.pdb
+D:\GitHub\Csharp_Basics\2_Primitives\obj\Debug\2_Primitives.exe
+D:\GitHub\Csharp_Basics\2_Primitives\obj\Debug\2_Primitives.pdb
