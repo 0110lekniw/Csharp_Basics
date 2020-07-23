@@ -1,0 +1,6 @@
+D:\GitHub\Csharp_Basics\7_Enums\bin\Debug\7_Enums.exe.config
+D:\GitHub\Csharp_Basics\7_Enums\bin\Debug\7_Enums.exe
+D:\GitHub\Csharp_Basics\7_Enums\bin\Debug\7_Enums.pdb
+D:\GitHub\Csharp_Basics\7_Enums\obj\Debug\7_Enums.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp_Basics\7_Enums\obj\Debug\7_Enums.exe
+D:\GitHub\Csharp_Basics\7_Enums\obj\Debug\7_Enums.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\Csharp_Basics\6_Strings\bin\Debug\6_Strings.exe.config
+D:\GitHub\Csharp_Basics\6_Strings\bin\Debug\6_Strings.exe
+D:\GitHub\Csharp_Basics\6_Strings\bin\Debug\6_Strings.pdb
+D:\GitHub\Csharp_Basics\6_Strings\obj\Debug\6_Strings.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp_Basics\6_Strings\obj\Debug\6_Strings.exe
+D:\GitHub\Csharp_Basics\6_Strings\obj\Debug\6_Strings.pdb
