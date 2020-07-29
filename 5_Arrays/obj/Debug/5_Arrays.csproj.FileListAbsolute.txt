@@ -1,6 +1,0 @@
-D:\GitHub\Csharp_Basics\5_Arrays\bin\Debug\5_Arrays.exe.config
-D:\GitHub\Csharp_Basics\5_Arrays\bin\Debug\5_Arrays.exe
-D:\GitHub\Csharp_Basics\5_Arrays\bin\Debug\5_Arrays.pdb
-D:\GitHub\Csharp_Basics\5_Arrays\obj\Debug\5_Arrays.csproj.CoreCompileInputs.cache
-D:\GitHub\Csharp_Basics\5_Arrays\obj\Debug\5_Arrays.exe
-D:\GitHub\Csharp_Basics\5_Arrays\obj\Debug\5_Arrays.pdb

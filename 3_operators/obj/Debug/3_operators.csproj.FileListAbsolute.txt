@@ -1,7 +1,0 @@
-D:\GitHub\Csharp_Basics\3_operators\obj\Debug\3_operators.csprojAssemblyReference.cache
-D:\GitHub\Csharp_Basics\3_operators\obj\Debug\3_operators.csproj.CoreCompileInputs.cache
-D:\GitHub\Csharp_Basics\3_operators\bin\Debug\3_operators.exe.config
-D:\GitHub\Csharp_Basics\3_operators\bin\Debug\3_operators.exe
-D:\GitHub\Csharp_Basics\3_operators\bin\Debug\3_operators.pdb
-D:\GitHub\Csharp_Basics\3_operators\obj\Debug\3_operators.exe
-D:\GitHub\Csharp_Basics\3_operators\obj\Debug\3_operators.pdb

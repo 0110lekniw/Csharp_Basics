@@ -1,7 +1,0 @@
-D:\GitHub\Csharp_Basics\4_Classes\bin\Debug\4_Classes.exe.config
-D:\GitHub\Csharp_Basics\4_Classes\bin\Debug\4_Classes.exe
-D:\GitHub\Csharp_Basics\4_Classes\bin\Debug\4_Classes.pdb
-D:\GitHub\Csharp_Basics\4_Classes\obj\Debug\4_Classes.csprojAssemblyReference.cache
-D:\GitHub\Csharp_Basics\4_Classes\obj\Debug\4_Classes.csproj.CoreCompileInputs.cache
-D:\GitHub\Csharp_Basics\4_Classes\obj\Debug\4_Classes.exe
-D:\GitHub\Csharp_Basics\4_Classes\obj\Debug\4_Classes.pdb

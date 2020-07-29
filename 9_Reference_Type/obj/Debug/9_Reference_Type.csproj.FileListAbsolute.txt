@@ -1,6 +1,0 @@
-D:\GitHub\Csharp_Basics\9_Reference_Type\bin\Debug\9_Reference_Type.exe.config
-D:\GitHub\Csharp_Basics\9_Reference_Type\bin\Debug\9_Reference_Type.exe
-D:\GitHub\Csharp_Basics\9_Reference_Type\bin\Debug\9_Reference_Type.pdb
-D:\GitHub\Csharp_Basics\9_Reference_Type\obj\Debug\9_Reference_Type.csproj.CoreCompileInputs.cache
-D:\GitHub\Csharp_Basics\9_Reference_Type\obj\Debug\9_Reference_Type.exe
-D:\GitHub\Csharp_Basics\9_Reference_Type\obj\Debug\9_Reference_Type.pdb
