@@ -45,11 +45,12 @@ namespace Section_6
         //Display the reversed name on the console.
         public static void ExerciseTwo()
         {
-            var name = new List<char>();
+            
 
             Console.Write("Please, enter your name: ");
             string input = Console.ReadLine();
 
+            var name = new List<char>();
             for (var i = 0; i < input.Length; i++)
                 name.Add(input[i]);
             name.Reverse();
@@ -59,6 +60,21 @@ namespace Section_6
                 Console.Write(character);
             Console.WriteLine();
 
+        }
+
+        //Example 
+        
+        public static void Exercise2()
+        {
+            Console.Write("What's Your Name? ");
+            var name = Console.ReadLine();
+
+            var array = new char[name.Length];
+            for (var i = name.Length; i > 0; i--)
+                array[name.Length - i] = name[i - 1];
+
+            var reversed = new string(array);
+            Console.WriteLine("Reversed name is "+reversed);
         }
 
 
